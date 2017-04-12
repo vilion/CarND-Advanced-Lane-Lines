@@ -147,4 +147,3 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 
 日本語で失礼します。
 光が強い箇所では度々、誤検出が発生しました。おそらく、彩度が強すぎるため、黄色い線の外側を車線と間違えて検出してしまうものと思われます。
-何らかの処理を元画像に施すなど、精度を高める必要があります。
